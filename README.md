@@ -1,1 +1,1 @@
-# VACAssignment is done on the different cricket teams .
+# VACAssignment is done by selecting different cricket teams .
